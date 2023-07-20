@@ -105,7 +105,7 @@ int main(){
   }
    delete s;
 
-    std::cout<<"Terminou";
+    std::cout<<"Pode olhar a laranja";
 
 
   return 0;
